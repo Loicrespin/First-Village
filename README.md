@@ -55,6 +55,6 @@ Pour lancer le jeu il suffit d'ouvrir le fichier executable sous Windows 10.
 
 **Loïc Crespin** _alias_ [@Nip's](https://github.com/Loicrespin)
 
-##License
+## License
 
 Ce projet est sous licence ``cc0-1.0`` - voir le fichier [LICENCE.md](https://github.com/Loicrespin/First-Village/blob/9a80e83396c98728bec80cba0a26c1d70e249171/LICENSE) pour plus d'informations.
